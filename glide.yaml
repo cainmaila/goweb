@@ -1,0 +1,4 @@
+package: github.com/cainmaila/goweb
+import:
+- package: github.com/kataras/iris
+  version: ^8.5.7
